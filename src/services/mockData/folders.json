@@ -1,0 +1,98 @@
+[
+  {
+    "id": "f1",
+    "name": "Documents",
+    "path": "/folders/Documents",
+    "parentId": null,
+    "createdAt": "2024-01-10T09:00:00Z",
+    "childCount": 5
+  },
+  {
+    "id": "f2", 
+    "name": "Projects",
+    "path": "/folders/Projects",
+    "parentId": null,
+    "createdAt": "2024-01-12T10:30:00Z",
+    "childCount": 8
+  },
+  {
+    "id": "f3",
+    "name": "Images",
+    "path": "/folders/Images",
+    "parentId": null,
+    "createdAt": "2024-01-14T11:15:00Z",
+    "childCount": 12
+  },
+  {
+    "id": "f4",
+    "name": "Videos",
+    "path": "/folders/Videos",
+    "parentId": null,
+    "createdAt": "2024-01-16T13:45:00Z",
+    "childCount": 3
+  },
+  {
+    "id": "f5",
+    "name": "Archives",
+    "path": "/folders/Archives",
+    "parentId": null,
+    "createdAt": "2024-01-18T15:20:00Z",
+    "childCount": 7
+  },
+  {
+    "id": "f6",
+    "name": "Client Work",
+    "path": "/folders/Projects/Client Work",
+    "parentId": "f2",
+    "createdAt": "2024-01-20T16:30:00Z",
+    "childCount": 4
+  },
+  {
+    "id": "f7",
+    "name": "Internal Projects",
+    "path": "/folders/Projects/Internal Projects",
+    "parentId": "f2",
+    "createdAt": "2024-01-22T08:45:00Z",
+    "childCount": 6
+  },
+  {
+    "id": "f8",
+    "name": "Screenshots",
+    "path": "/folders/Images/Screenshots",
+    "parentId": "f3",
+    "createdAt": "2024-01-24T12:15:00Z",
+    "childCount": 15
+  },
+  {
+    "id": "f9",
+    "name": "Design Assets",
+    "path": "/folders/Images/Design Assets",
+    "parentId": "f3",
+    "createdAt": "2024-01-26T14:20:00Z",
+    "childCount": 9
+  },
+  {
+    "id": "f10",
+    "name": "Presentations",
+    "path": "/folders/Documents/Presentations",
+    "parentId": "f1",
+    "createdAt": "2024-01-28T09:30:00Z",
+    "childCount": 3
+  },
+  {
+    "id": "f11",
+    "name": "Contracts",
+    "path": "/folders/Documents/Contracts",
+    "parentId": "f1",
+    "createdAt": "2024-01-30T11:45:00Z",
+    "childCount": 2
+  },
+  {
+    "id": "f12",
+    "name": "Reports",
+    "path": "/folders/Documents/Reports",
+    "parentId": "f1",
+    "createdAt": "2024-02-01T13:00:00Z",
+    "childCount": 4
+  }
+]

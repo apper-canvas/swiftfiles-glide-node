@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ut1",
+    "fileName": "sample_upload.pdf",
+    "progress": 100,
+    "status": "completed",
+    "startTime": "2024-02-15T10:30:00Z"
+  },
+  {
+    "id": "ut2",
+    "fileName": "large_video_file.mp4",
+    "progress": 75,
+    "status": "uploading",
+    "startTime": "2024-02-15T11:15:00Z"
+  },
+  {
+    "id": "ut3",
+    "fileName": "document_batch.zip",
+    "progress": 0,
+    "status": "pending",
+    "startTime": "2024-02-15T11:45:00Z"
+  },
+  {
+    "id": "ut4",
+    "fileName": "presentation_final.pptx",
+    "progress": 100,
+    "status": "completed",
+    "startTime": "2024-02-15T12:00:00Z"
+  },
+  {
+    "id": "ut5",
+    "fileName": "image_collection.zip",
+    "progress": 45,
+    "status": "uploading",
+    "startTime": "2024-02-15T12:30:00Z"
+  },
+  {
+    "id": "ut6",
+    "fileName": "failed_upload.docx",
+    "progress": 0,
+    "status": "failed",
+    "startTime": "2024-02-15T13:00:00Z"
+  },
+  {
+    "id": "ut7",
+    "fileName": "spreadsheet_data.xlsx",
+    "progress": 100,
+    "status": "completed",
+    "startTime": "2024-02-15T13:15:00Z"
+  },
+  {
+    "id": "ut8",
+    "fileName": "audio_recording.mp3",
+    "progress": 90,
+    "status": "uploading",
+    "startTime": "2024-02-15T13:45:00Z"
+  },
+  {
+    "id": "ut9",
+    "fileName": "design_mockup.sketch",
+    "progress": 100,
+    "status": "completed",
+    "startTime": "2024-02-15T14:00:00Z"
+  },
+  {
+    "id": "ut10",
+    "fileName": "project_archive.rar",
+    "progress": 25,
+    "status": "uploading",
+    "startTime": "2024-02-15T14:30:00Z"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "name": "Project_Proposal_2024.pdf",
+    "size": 2458624,
+    "type": "application/pdf",
+    "mimeType": "application/pdf",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "modifiedAt": "2024-01-15T14:22:00Z",
+    "path": "/files/Project_Proposal_2024.pdf",
+    "parentFolderId": null
+  },
+  {
+    "id": "2",
+    "name": "presentation_slides.pptx",
+    "size": 15728640,
+    "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "createdAt": "2024-01-16T09:15:00Z",
+    "modifiedAt": "2024-01-17T11:45:00Z",
+    "path": "/files/presentation_slides.pptx",
+    "parentFolderId": null
+  },
+  {
+    "id": "3",
+    "name": "budget_analysis.xlsx",
+    "size": 1048576,
+    "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "createdAt": "2024-01-18T13:20:00Z",
+    "modifiedAt": "2024-01-18T16:30:00Z",
+    "path": "/files/budget_analysis.xlsx",
+    "parentFolderId": null
+  },
+  {
+    "id": "4",
+    "name": "team_photo.jpg",
+    "size": 3145728,
+    "type": "image/jpeg",
+    "mimeType": "image/jpeg",
+    "createdAt": "2024-01-20T12:00:00Z",
+    "modifiedAt": "2024-01-20T12:00:00Z",
+    "path": "/files/team_photo.jpg",
+    "parentFolderId": null
+  },
+  {
+    "id": "5",
+    "name": "meeting_recording.mp3",
+    "size": 12582912,
+    "type": "audio/mpeg",
+    "mimeType": "audio/mpeg",
+    "createdAt": "2024-01-22T14:30:00Z",
+    "modifiedAt": "2024-01-22T14:30:00Z",
+    "path": "/files/meeting_recording.mp3",
+    "parentFolderId": null
+  },
+  {
+    "id": "6",
+    "name": "design_mockups.sketch",
+    "size": 8388608,
+    "type": "application/octet-stream",
+    "mimeType": "application/octet-stream",
+    "createdAt": "2024-01-25T10:45:00Z",
+    "modifiedAt": "2024-01-26T09:15:00Z",
+    "path": "/files/design_mockups.sketch",
+    "parentFolderId": null
+  },
+  {
+    "id": "7",
+    "name": "requirements_document.docx",
+    "size": 524288,
+    "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "createdAt": "2024-01-28T08:30:00Z",
+    "modifiedAt": "2024-01-29T17:20:00Z",
+    "path": "/files/requirements_document.docx",
+    "parentFolderId": null
+  },
+  {
+    "id": "8",
+    "name": "company_logo.png",
+    "size": 262144,
+    "type": "image/png",
+    "mimeType": "image/png",
+    "createdAt": "2024-02-01T11:00:00Z",
+    "modifiedAt": "2024-02-01T11:00:00Z",
+    "path": "/files/company_logo.png",
+    "parentFolderId": null
+  },
+  {
+    "id": "9",
+    "name": "project_archive.zip",
+    "size": 104857600,
+    "type": "application/zip",
+    "mimeType": "application/zip",
+    "createdAt": "2024-02-03T16:45:00Z",
+    "modifiedAt": "2024-02-03T16:45:00Z",
+    "path": "/files/project_archive.zip",
+    "parentFolderId": null
+  },
+  {
+    "id": "10",
+    "name": "user_feedback.txt",
+    "size": 4096,
+    "type": "text/plain",
+    "mimeType": "text/plain",
+    "createdAt": "2024-02-05T13:15:00Z",
+    "modifiedAt": "2024-02-06T10:30:00Z",
+    "path": "/files/user_feedback.txt",
+    "parentFolderId": null
+  },
+  {
+    "id": "11",
+    "name": "demo_video.mp4",
+    "size": 52428800,
+    "type": "video/mp4",
+    "mimeType": "video/mp4",
+    "createdAt": "2024-02-08T15:20:00Z",
+    "modifiedAt": "2024-02-08T15:20:00Z",
+    "path": "/files/demo_video.mp4",
+    "parentFolderId": null
+  },
+  {
+    "id": "12",
+    "name": "financial_report_Q1.pdf",
+    "size": 1572864,
+    "type": "application/pdf",
+    "mimeType": "application/pdf",
+    "createdAt": "2024-02-10T09:30:00Z",
+    "modifiedAt": "2024-02-11T14:15:00Z",
+    "path": "/files/financial_report_Q1.pdf",
+    "parentFolderId": null
+  },
+  {
+    "id": "13",
+    "name": "wireframes_collection.ai",
+    "size": 6291456,
+    "type": "application/octet-stream",
+    "mimeType": "application/octet-stream",
+    "createdAt": "2024-02-12T12:45:00Z",
+    "modifiedAt": "2024-02-13T08:20:00Z",
+    "path": "/files/wireframes_collection.ai",
+    "parentFolderId": null
+  },
+  {
+    "id": "14",
+    "name": "contract_template.docx",
+    "size": 786432,
+    "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "createdAt": "2024-02-15T14:10:00Z",
+    "modifiedAt": "2024-02-15T16:25:00Z",
+    "path": "/files/contract_template.docx",
+    "parentFolderId": null
+  },
+  {
+    "id": "15",
+    "name": "product_roadmap.png",
+    "size": 1048576,
+    "type": "image/png",
+    "mimeType": "image/png",
+    "createdAt": "2024-02-18T10:15:00Z",
+    "modifiedAt": "2024-02-18T10:15:00Z",
+    "path": "/files/product_roadmap.png",
+    "parentFolderId": null
+  }
+]
